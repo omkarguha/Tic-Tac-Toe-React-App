@@ -1,0 +1,13 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 0;
+    padding: 0;
+}
+.boardRow{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.board{
+    margin: 10px;
+}
